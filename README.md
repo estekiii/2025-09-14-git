@@ -7,3 +7,4 @@ Learning Git step by step
 
 
 my new line
+last X
